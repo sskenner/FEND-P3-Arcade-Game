@@ -3,6 +3,9 @@
 ###objective
 Move sprite to the water while dodging bugs on the road.
 
+###playing app
+You'll start the game with **3 sprites**. Each time you collide with a bug you will **lose a life**. Reach the water **5 times** before you run out of lives to **win**!
+
 ###accessing app
 ####online:
 Click [**here**](http://sskenner.github.io/FEND-P3-arcade-game/index.html) or copy/paste this link in browser http://sskenner.github.io/FEND-P3-arcade-game/index.html.
@@ -12,9 +15,6 @@ Click [**here**](http://sskenner.github.io/FEND-P3-arcade-game/index.html) or co
 - _**step 2**_ - extract files ..
 - _**step 3**_ - locate the index.html file and ..
 - _**step 4**_ - open in your favorite browser.
-
-###playing app
-You'll start the game with 3 sprites. Each time you collide with a bug you will lose a life. Reach the water 5 times before you run out of lives to win!
 
 ###the controls
 - _**Up**_ - up arrow
