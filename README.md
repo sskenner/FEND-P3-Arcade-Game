@@ -5,7 +5,7 @@ Move sprite to the water while dodging bugs on the road.
 
 ###accessing app
 ####online:
-click [**here**](http://sskenner.github.io/FEND-P3-arcade-game/index.html) or copy/paste this link in browser http://sskenner.github.io/FEND-P3-arcade-game/index.html.
+Click [**here**](http://sskenner.github.io/FEND-P3-arcade-game/index.html) or copy/paste this link in browser http://sskenner.github.io/FEND-P3-arcade-game/index.html.
 
 ####locally:
 - _**step 1**_ - click [**here**](https://github.com/udacity/frontend-nanodegree-arcade-game/archive/master.zip) to _download_ zip files ..
