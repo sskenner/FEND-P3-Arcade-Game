@@ -75,7 +75,7 @@ Player.prototype.checkCollisions = function() {
     var self = this;
     allEnemies.forEach(function(enemy) {
       if (enemy.y == self.y) {  // .. is on same column as an enemy
-        if (enemy.x >= player.x - 30 && enemy.x <= player.x + 30) { // .. is also on the same row as an enemy
+        if (enemy.x >= self.x - 30 && enemy.x <= self.x + 30) { // .. is also on the same row as an enemy
           self.lives --;  // .. then decrease number of lives
           self.reset();
       }
